@@ -34,6 +34,9 @@ This project contains an end-to-end statistical validation of a mobile applicati
 * **Statistical Decision:** Reject the Null Hypothesis ($H_0$). The conversion lift is highly robust.
 * **Visual Verification:** Plotted **95% Confidence Intervals (CI)** show absolute vertical separation (no overlap), validating the test's consistency.
 * **Temporal Analysis:** Plotting daily conversion trends over the 21-day timeline proved that Group B consistently outperformed Group A, eliminating the possibility of a single-day anomaly.
+* ### Visual Verification:
+![Confidence Intervals](./conversion_intervals.png)
+![Daily Conversion Trends](./daily_trends.png)
 
 ---
 
