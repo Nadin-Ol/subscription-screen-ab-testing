@@ -27,18 +27,26 @@ This project contains an end-to-end statistical validation of a mobile applicati
 
 ---
 
-##  Statistical Validation
+## 🔬 Statistical Validation & Hypothesis Testing
+
 * **Hypothesis Framework:** Two-sample Student's t-test (Independent samples).
 * **Test Results:** * **t-statistic:** -7.53 (Absolute magnitude confirms extreme variation from the control mean).
   * **p-value:** < 0.0001 (Significantly lower than the standard threshold $\alpha = 0.05$).
 * **Statistical Decision:** Reject the Null Hypothesis ($H_0$). The conversion lift is highly robust.
-* **Visual Verification:** Plotted **95% Confidence Intervals (CI)** show absolute vertical separation (no overlap), validating the test's consistency.
-* **Temporal Analysis:** Plotting daily conversion trends over the 21-day timeline proved that Group B consistently outperformed Group A, eliminating the possibility of a single-day anomaly.
-* ### Visual Verification:
+* **Visual Verification:** Plotted 95% Confidence Intervals (CI) show absolute vertical separation (no overlap), validating the test's consistency.
+
+### 📊 Conversion by Groups with 95% CI
 ![Confidence Intervals](./conversion_intervals.png)
-![Daily Conversion Trends](./daily_trends.png)
 
 ---
+
+## 📈 Bonus: Temporal Conversion Analysis
+
+* **Temporal Analysis:** Plotting daily conversion trends over the 21-day timeline proved that Group B consistently outperformed Group A, eliminating the possibility of a single-day anomaly.
+
+### 📉 Daily Conversion Rate Dynamics
+![Daily Conversion Trends](./daily_trends.png)
+
 
 ##  Data-Driven Recommendations
 1. **Full Scale Deployment:** Roll out the Group B design to 100% of the active user base immediately.
