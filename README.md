@@ -27,7 +27,7 @@ This project contains an end-to-end statistical validation of a mobile applicati
 
 ---
 
-## 🔬 Statistical Validation & Hypothesis Testing
+##  Statistical Validation & Hypothesis Testing
 
 * **Hypothesis Framework:** Two-sample Student's t-test (Independent samples).
 * **Test Results:** * **t-statistic:** -7.53 (Absolute magnitude confirms extreme variation from the control mean).
@@ -35,7 +35,7 @@ This project contains an end-to-end statistical validation of a mobile applicati
 * **Statistical Decision:** Reject the Null Hypothesis ($H_0$). The conversion lift is highly robust.
 * **Visual Verification:** Plotted 95% Confidence Intervals (CI) show absolute vertical separation (no overlap), validating the test's consistency.
 
-### 📊 Conversion by Groups with 95% CI
+###  Conversion by Groups with 95% CI
 ![Confidence Intervals](./conversion_intervals.png)
 
 ---
