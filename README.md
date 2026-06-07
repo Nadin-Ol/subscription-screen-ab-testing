@@ -58,4 +58,4 @@ This project contains an end-to-end statistical validation of a mobile applicati
 * `AB_Testing_Subscription_Inference.ipynb` — Complete Jupyter Notebook containing data import, filtering, statistical equations, and Seaborn visual plots.
 * `README.md` — Analytical brief.
 
-*For a comprehensive view of my analytics workflow, interactive live reports, and complete case studies, visit my **[Notion Portfolio](ВСТАВТЕ_СЮДИ_ПОСИЛАННЯ_НА_ВАШ_NOTION)**.*
+*For a comprehensive view of my analytics workflow, interactive live reports, and complete case studies, visit my **[Notion Portfolio](https://potent-quotation-9f2.notion.site/37873967d031800abd39c35bda1bdd0d?v=37873967d031802c8215000c98a0e61b&source=copy_link)**.*
