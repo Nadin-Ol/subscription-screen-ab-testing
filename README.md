@@ -40,11 +40,11 @@ This project contains an end-to-end statistical validation of a mobile applicati
 
 ---
 
-## 📈 Bonus: Temporal Conversion Analysis
+##  Temporal Conversion Analysis
 
 * **Temporal Analysis:** Plotting daily conversion trends over the 21-day timeline proved that Group B consistently outperformed Group A, eliminating the possibility of a single-day anomaly.
 
-### 📉 Daily Conversion Rate Dynamics
+###  Daily Conversion Rate Dynamics
 ![Daily Conversion Trends](./daily_trends.png)
 
 
